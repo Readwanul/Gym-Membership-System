@@ -1,0 +1,14 @@
+D:\Readwan\11th semester\.net\MVC\GYM\DAL\bin\Debug\DAL.dll.config
+D:\Readwan\11th semester\.net\MVC\GYM\DAL\bin\Debug\DAL.dll
+D:\Readwan\11th semester\.net\MVC\GYM\DAL\bin\Debug\DAL.pdb
+D:\Readwan\11th semester\.net\MVC\GYM\DAL\bin\Debug\EntityFramework.dll
+D:\Readwan\11th semester\.net\MVC\GYM\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Readwan\11th semester\.net\MVC\GYM\DAL\bin\Debug\EntityFramework.xml
+D:\Readwan\11th semester\.net\MVC\GYM\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Readwan\11th semester\.net\MVC\GYM\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Readwan\11th semester\.net\MVC\GYM\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Readwan\11th semester\.net\MVC\GYM\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Readwan\11th semester\.net\MVC\GYM\DAL\obj\Debug\DAL.dll
+D:\Readwan\11th semester\.net\MVC\GYM\DAL\obj\Debug\DAL.pdb
+D:\Readwan\11th semester\.net\MVC\GYM\DAL\obj\Debug\DAL.Migrations.InitDB.resources
+D:\Readwan\11th semester\.net\MVC\GYM\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

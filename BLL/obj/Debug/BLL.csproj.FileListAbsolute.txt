@@ -1,0 +1,14 @@
+D:\Readwan\11th semester\.net\MVC\GYM\BLL\bin\Debug\BLL.dll
+D:\Readwan\11th semester\.net\MVC\GYM\BLL\bin\Debug\BLL.pdb
+D:\Readwan\11th semester\.net\MVC\GYM\BLL\bin\Debug\AutoMapper.dll
+D:\Readwan\11th semester\.net\MVC\GYM\BLL\bin\Debug\AutoMapper.xml
+D:\Readwan\11th semester\.net\MVC\GYM\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Readwan\11th semester\.net\MVC\GYM\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Readwan\11th semester\.net\MVC\GYM\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Readwan\11th semester\.net\MVC\GYM\BLL\obj\Debug\BLL.dll
+D:\Readwan\11th semester\.net\MVC\GYM\BLL\obj\Debug\BLL.pdb
+D:\Readwan\11th semester\.net\MVC\GYM\BLL\bin\Debug\DAL.dll
+D:\Readwan\11th semester\.net\MVC\GYM\BLL\bin\Debug\EntityFramework.dll
+D:\Readwan\11th semester\.net\MVC\GYM\BLL\bin\Debug\DAL.pdb
+D:\Readwan\11th semester\.net\MVC\GYM\BLL\bin\Debug\DAL.dll.config
+D:\Readwan\11th semester\.net\MVC\GYM\BLL\bin\Debug\EntityFramework.xml
